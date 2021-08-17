@@ -1,9 +1,5 @@
-## lgpdapp
-
-## Nome do Projeto 
 <h1 align="center">LGPD APP</h1>
 
-## Descrição do Projeto
 <p align="center">Escrever uma breve descrição - Em breve</p>
 
 <h1 align="center">
