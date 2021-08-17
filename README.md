@@ -3,7 +3,7 @@
 <p align="center">Escrever uma breve descrição - Em breve</p>
 
 <h1 align="center">
-    <a href="https://reactnative.dev/">🔗 React</a>
+    <a href="https://reactnative.dev/">🔗 React Native</a>
 </h1>
 
 <h4 align="center"> 
