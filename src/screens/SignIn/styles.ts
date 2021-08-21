@@ -40,5 +40,12 @@ export const styles = StyleSheet.create({
     height: 250,
     width: 241,
     marginBottom: 100
+  },
+
+  titleCadastre:{
+    marginTop: 15,
+    textAlign: 'center',
+    fontSize: 13,
+    color: '#0F70F5'
   }
 });

@@ -1,20 +1,18 @@
-import { useNavigation } from '@react-navigation/native';
 import React from 'react';
-import { Image, View, Text } from 'react-native';
+import { 
+  Image, 
+  View, 
+  Text
+} from 'react-native';
 
-/*import IllustratedImg from '../../assets/illustration.png';
-import { ButtonIcon } from '../../components/ButtonIcon';
-import { Background } from '../../components/Background';*/
+import { ButtonGoogle } from '../../components/ButtonGoogle';
+import { ButtonCadastre } from '../../components/ButtonCadastre';
+import { useNavigation } from '@react-navigation/native';
 
-import { ButtonIcon } from '../../components/ButtonIcon';
 import { styles } from './styles';
 
 export function SignIn() {
   const navigation = useNavigation();
-
-  // function handleSignIn() {
-  //   navigation.navigate('Home');
-  // }
 
   return (
     
@@ -42,7 +40,10 @@ export function SignIn() {
           LGPD.
           </Text>
 
-          <ButtonIcon />
+          <ButtonGoogle />
+          <Text />
+          <ButtonCadastre />
+
         </View>
       </View>
     

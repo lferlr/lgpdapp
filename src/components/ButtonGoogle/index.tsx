@@ -9,7 +9,7 @@ import {
 //import GoogleIcon from './../../../assets/googleIcon.png';
 import { styles } from './styles';
 
-export function ButtonIcon() {
+export function ButtonGoogle() {
   return(
     <TouchableOpacity style={styles.container}>
       <View style={styles.iconWrapper}>
